@@ -3,7 +3,7 @@ CURRICULUM VITAE
                                                                                   ARENA RODRIGO DANIEL
                                                                                   AÑOS: 31
         DOMICILIO: Ascoli Piceno, Italia.
-        MÓVIL: +39 379 176 4936 / +34 658 744 630
+        MÓVIL: +39 351 650 4201
         ESTADO CIVIL: Soltero.
         MAIL: rdarena@gmail.com
         GITHUB: /rodrigoarena
@@ -16,9 +16,14 @@ CURRICULUM VITAE
 
         Diplomatura (Completo):
         -    Diplomatura en Liderazgo Coach e Inteligencia Emocional – Universidad Empresarial Siglo 21
+        
+        Curso de grado superior profesional (Completo):
+        -    Asesor Global de Inversiones - Instituto de Capacitación Bursatil - Buenos Aires, Argentina
 
         Idiomas (Completo): 
         -	Inglés Nivel Intermedio – Facultad de Lenguas, Universidad Nacional de Córdoba
+        - Italiano Nivel Intermedio - Viviendo en Italia
+        - Español Lengua Madre
 
         Bootcamp (Últimos meses): 
         -	Desarrollador Web Full Stack – Javascript, HTML, CSS, Node, React, Redux, SQL – Academia Soy Henry
@@ -26,7 +31,6 @@ CURRICULUM VITAE
         Otros Conocimientos (Nivel experto):
         -	Herramientas Office -  Word, Excel, Power Point y Outlook
         -	Herramientas Adobe - Photoshop e Ilustrator
-        -	Redes Sociales (Facebook, Instagram, Twitter, Mercado Libre, OLX, E-Bay, etc)
         -	Lenguajes de programación web – Javascript, HTML, CSS, Node, React, Redux, SQL
 
                                                    TRABAJOS REALIZADOS
@@ -41,7 +45,7 @@ CURRICULUM VITAE
         -	Community Manager en JR´S Veggie Burgers.
         Diseño y desarrollo de identidad de marca, manejo de redes sociales, diseño de post, historias y contenido,
         seguimiento de crecimiento en redes, etc. Instagram: jrsveggieburgers.
-        Desde Junio 2020 hasta la Actualidad.
+        Desde Junio 2020 hasta Septiembre 2020.
         Referencia: Rossia, Jesica (+34 677 095 081)
 
         -	Designer Manager en MCA QR Solutions.
